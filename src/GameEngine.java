@@ -8,6 +8,7 @@ public class GameEngine {
     GameInfo objGameInfo = new GameInfo();
     Item objCincin = new Item("Cincin Emas");
     Item objRoti = new Item("Roti");
+    //tambah komen
 
 
 
